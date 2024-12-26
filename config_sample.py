@@ -7,8 +7,8 @@ TELEGRAM_HASH = "81ca3df48f25d954b2ebef5aec715a73"
 USER_SESSION_STRING = ""
 DOWNLOAD_DIR = "/usr/src/app/downloads/"
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
-SUDO_USERS = ""
+AUTHORIZED_CHATS = "4694604237 1302460619 -1002409821863"
+SUDO_USERS = "1302460619"
 DATABASE_URL = "mongodb+srv://irlwolf:9aEpUre0fkmBjHVz@cluster0.jkd3o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
@@ -22,7 +22,7 @@ USE_SERVICE_ACCOUNTS = False
 NAME_SUBSTITUTE = ""
 FFMPEG_CMDS = []
 # GDrive Tools
-GDRIVE_ID = ""
+GDRIVE_ID = "1--NTKJrZAM9lBCpnq3_ozYId6P5AXKPQ"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 INDEX_URL = ""
